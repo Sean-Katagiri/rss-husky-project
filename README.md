@@ -1,1 +1,2 @@
-# rss-husky-project
+# Husky-Project
+RSS 2018
